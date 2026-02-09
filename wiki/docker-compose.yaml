@@ -1,8 +1,7 @@
 version: "3"
 services:
-
   db:
-    image: postgres:17-alpine
+    image: postgres:15-alpine
     environment:
       POSTGRES_DB: wiki
       POSTGRES_PASSWORD: wikijsrocks
@@ -12,9 +11,8 @@ services:
     restart: unless-stopped
     volumes:
       - db-data:/var/lib/postgresql/data
-
   wiki:
-    image: ghcr.io/requarks/wiki:2
+    image: requarks/wiki:2.5.300
     depends_on:
       - db
     environment:
@@ -27,6 +25,5 @@ services:
     restart: unless-stopped
     ports:
       - "80:3000"
-
 volumes:
   db-data:
