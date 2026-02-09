@@ -1,0 +1,1 @@
+Un moine demi-nain, Baldus Barbebraise tiens un bar depuis des années. Baldus porte des plateformes gigantesques. Baldus semble avoir éduqué [[Petunia]]
