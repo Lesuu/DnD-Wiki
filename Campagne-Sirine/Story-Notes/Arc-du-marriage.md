@@ -2,15 +2,15 @@
 title: Arc-du-marriage
 description: 
 published: true
-date: 2026-02-10T13:00:50.187Z
+date: 2026-02-10T13:04:11.596Z
 tags: 
 editor: markdown
 dateCreated: 2026-02-10T11:47:08.895Z
 ---
 
-Deux familles qui en conflit depuis longtemps. A cause de pénuries et de famine, les deux familles [Gucciana]( et Chrisanthem ont décidé d'effectuer un marriage politique entre les enfants Ronaldo Chrianthem et Georgina Gucciana afin de consolider et centraliser le pouvoir dans la région. 
+Deux familles qui en conflit depuis longtemps. A cause de pénuries et de famine, les deux familles [Gucciana](/Personnages/Personnages) et [Chrisanthem](/Personnages/Personnages) ont décidé d'effectuer un marriage politique entre les enfants Ronaldo Chrianthem et Georgina Gucciana afin de consolider et centraliser le pouvoir dans la région. 
 
-[Rukkha](/Personnages/Rukkha) a aidé la mariée à réparer la prothèse de Georgina pendant que Petunia et Typhona semaient la pagaille dans la cuisine. 
+[Rukkha](/Personnages/Rukkha) a aidé la mariée à réparer la prothèse de Georgina pendant que [Petunia](/Personnages/Petunia) et [Typhona](/Personnages/Typhona) semaient la pagaille dans la cuisine. 
 
 [Rukkha](/Personnages/Rukkha) et [Baldus](/Personnages/Baldus) se sont déguisé·es en noble afin d'accéder au banquet.
 
