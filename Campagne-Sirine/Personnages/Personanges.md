@@ -2,7 +2,7 @@
 title: Personnages
 description: L'index des différents personnages
 published: true
-date: 2026-02-10T12:56:50.714Z
+date: 2026-02-10T12:56:56.452Z
 tags: 
 editor: markdown
 dateCreated: 2026-02-10T12:06:56.042Z
@@ -24,7 +24,7 @@ Les divers personnages incarnés par les joueureuses et les personnages principa
 
 # 2: Arc du marriage:
 
-### 2.1: Figures clés:
+## 2.1: Figures clés:
 
 ### Ronaldo Chrisanthem: 
 Héritié de la famille Chrisanthem, il s'est fait kidnappé la veille de son marriage par des mercennaires. [[Davnas]] s'est battu contre un d'entre eux qu'il a réussi à capturer. 
