@@ -2,7 +2,7 @@
 title: Personnages
 description: L'index des différents personnages
 published: true
-date: 2026-02-10T13:07:42.835Z
+date: 2026-02-10T13:08:06.382Z
 tags: 
 editor: markdown
 dateCreated: 2026-02-10T12:06:56.042Z
