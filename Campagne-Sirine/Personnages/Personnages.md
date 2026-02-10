@@ -2,7 +2,7 @@
 title: Personnages
 description: L'index des différents personnages
 published: true
-date: 2026-02-10T13:05:59.859Z
+date: 2026-02-10T13:06:05.578Z
 tags: 
 editor: markdown
 dateCreated: 2026-02-10T12:06:56.042Z
@@ -32,7 +32,7 @@ Héritié de la famille Chrisanthem, il s'est fait kidnappé la veille de son ma
 ### Georgina Gucciana: 
 Héritiaire de la famille Gucciana, elle s'est fait kidnappée la même nuit que Ronaldo, mais personne n'a assisté à son kidnappage. Sa jambe droite est une prothèse méchanique que [Rukkha](/Personnages/Rukkha) a aidé a réparé le jour du banquet.
 
-Dans un livre sur la famille Gucciana, on a trouvé des gribouilles qu'elle a fait. Une page avec des enfants, une page avec un couple (sûrement ses parents). Une page est complètement gribouillée, indiquant surement une sorte d'accident (ou la maman serait morte). Le livre raconte qu'il y a du bad blood depuis 500 ans avec la famille Chranthem: guerres, conflits, etc. "Nos familles ne pourront jamais s'entendre." Il y a 150 ans, un pacte de non-agression a été établi pour éviter le conflit, mais les deux se détestent tjrs.
+Dans un livre sur la famille Gucciana, on a trouvé des gribouilles qu'elle a fait. Une page avec des enfants, une page avec un couple (sûrement ses parents). Une page est complètement gribouillée, indiquant sûrement une sorte d'accident (ou la maman serait morte). Le livre raconte qu'il y a du bad blood depuis 500 ans avec la famille Chranthem: guerres, conflits, etc. "Nos familles ne pourront jamais s'entendre." Il y a 150 ans, un pacte de non-agression a été établi pour éviter le conflit, mais les deux se détestent tjrs.
 
 Un arbre généaolique s'étend de toute la famille. La page de Georgina: les deux parents ont des dessins d'enfants très joyeux et plein d'amour à l'égard de ses parents. 
 
