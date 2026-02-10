@@ -2,7 +2,7 @@
 title: Personnages
 description: L'index des différents personnages
 published: true
-date: 2026-02-10T13:09:17.600Z
+date: 2026-02-10T13:09:29.212Z
 tags: 
 editor: markdown
 dateCreated: 2026-02-10T12:06:56.042Z
@@ -23,6 +23,8 @@ Les divers personnages incarnés par les joueureuses et les personnages principa
 - [Typhona](/Personnages/Typhona)
 
 # 1: Introduction:
+
+[à compléter]
 
 # 2: Arc du marriage:
 
