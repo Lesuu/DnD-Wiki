@@ -2,7 +2,7 @@
 title: Personnages
 description: L'index des différents personnages
 published: true
-date: 2026-02-10T13:06:32.944Z
+date: 2026-02-10T13:06:38.512Z
 tags: 
 editor: markdown
 dateCreated: 2026-02-10T12:06:56.042Z
@@ -36,7 +36,7 @@ Dans un livre sur la famille Gucciana, on a trouvé des gribouilles qu'elle a fa
 
 Un arbre généaolique s'étend de toute la famille. La page de Georgina: les deux parents ont des dessins d'enfants très joyeux et plein d'amour à l'égard de ses parents. 
 
-Le bibliothéquaire, aussi son éducateur, nous explique qu'un accident a devasté la famille il y a 20 ans, c'était une femme extrêmement gentille. La mère Gucciana et les mamans Chrisanthem, qui semblait vraiment bien s'entendre par miracle, se sont retrouvées dans un accident de carosse, les 3 femmes sont décédées. Georgina s'était cachée dans la carosse pour leur faire une surprise, elle a été la seule survivante mais a perdu sa jambe dans l'accident.
+Le bibliothéquaire, aussi son éducateur, nous explique qu'un accident a devasté la famille il y a 20 ans, c'était une femme extrêmement gentille. La mère Gucciana et les mamans Chrisanthem, qui semblaient vraiment bien s'entendre par miracle, se sont retrouvées dans un accident de carosse, les 3 femmes sont décédées. Georgina s'était cachée dans la carosse pour leur faire une surprise, elle a été la seule survivante mais a perdu sa jambe dans l'accident.
 ### Alexy Chrisanthem:
 La mère (non biologique je crois?) de Ronaldo. Elle est la tête de la famille Chrisanthem
 ### Théodore Gucciana: 
