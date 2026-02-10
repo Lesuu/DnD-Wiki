@@ -2,7 +2,7 @@
 title: Arc-du-marriage
 description: 
 published: true
-date: 2026-02-10T12:59:37.419Z
+date: 2026-02-10T12:59:46.912Z
 tags: 
 editor: markdown
 dateCreated: 2026-02-10T11:47:08.895Z
@@ -16,7 +16,7 @@ Rukkha et Baldus se sont déguisé·es en noble afin d'accéder au banquet.
 
 Pendant ce temps, Typhonia et une maid gossip ensemble: superintendante et superintendant seraient en couple?? WOW!!! y a-t-il du véritable amour entre les futur·es mariés???
 
-Georgina et Ronaldo se sont fait enlevé.es, le kidnappeur est dans le dongeon
+Georgina et Ronaldo se sont fait enlevé·es, le kidnappeur est dans le dongeon
 
 Chateau mais sorte de campus, batiments somewhat séparé. 
 
