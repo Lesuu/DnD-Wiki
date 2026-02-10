@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Personnages/Personnages-secondaires.md",
+                "file": "index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Personnages-secondaires"
+              "title": "index"
             }
           }
         ],
@@ -214,36 +214,36 @@
   },
   "active": "04a51a4e4bc49bc3",
   "lastOpenFiles": [
+    "Personnages/Davnas.md",
+    "Personnages/Personnages.md",
+    "Personnages/Personnages-secondaires.md",
+    "Story-Arcs/Arc-du-marriage.md",
+    "Personnages/Rukkha.md",
+    "Personnages/Fer-bec.md",
+    "Personnages/Typhona.md",
+    "Personnages/Petunia.md",
+    "Personnages/Baldus.md",
+    "home.md",
+    "mint'sia.png",
+    "baldus.png",
+    "chien.jpeg",
+    "index.md",
+    "Story-Notes/Arc-du-marriage.md",
     "typhona.jpeg",
     "rukkha.png",
     "petunia.jpg",
-    "mint'sia.png",
     "home/Story-Notes/Introduction.md",
     "home/Story-Notes",
     "home",
-    "chien.jpeg",
-    "baldus.png",
-    "Story-Notes/Arc-du-marriage.md",
     "Story-Notes",
-    "Personnages/Personnages.md",
-    "Personnages/Personnages-secondaires.md",
-    "Personnages/Fer-bec.md",
-    "Personnages/Davnas.md",
-    "Personnages/Baldus.md",
-    "home.md",
     "Locations/Eradrim.md",
     "Locations/Duskwatch.md",
-    "Story-Arcs/Arc-du-marriage.md",
     "Story-Arcs/Introduction.md",
     "Locations",
-    "Accueil.md",
-    "Personnages/Rukkha.md",
     "Welcome.md",
     "Story Notes/Introduction.md",
     "Story Notes/Arc du marriage.md",
     "Story Notes",
-    "Personnages/Petunia.md",
-    "Personnages/Typhona.md",
     "Personnages"
   ]
 }
