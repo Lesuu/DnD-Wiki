@@ -2,7 +2,7 @@
 title: Personnages
 description: L'index des différents personnages
 published: true
-date: 2026-02-10T13:02:23.940Z
+date: 2026-02-10T13:05:22.891Z
 tags: 
 editor: markdown
 dateCreated: 2026-02-10T12:06:56.042Z
@@ -27,10 +27,10 @@ Les divers personnages incarnés par les joueureuses et les personnages principa
 ## 2.1: Figures clés:
 
 ### Ronaldo Chrisanthem: 
-Héritié de la famille Chrisanthem, il s'est fait kidnappé la veille de son marriage par des mercennaires. [[Davnas]] s'est battu contre un d'entre eux qu'il a réussi à capturer. 
+Héritié de la famille Chrisanthem, il s'est fait kidnappé la veille de son marriage par des mercennaires. [Davnas](/Personnages/Davnas) s'est battu contre un d'entre eux qu'il a réussi à capturer. 
 
 ### Georgina Gucciana: 
-Héritiaire de la famille Gucciana, elle s'est fait kidnappée la même nuit que Ronaldo, mais personne n'a assisté à son kidnappage. Sa jambe droite est une prothèse méchanique que [[Rukkha]] a aidé a réparé le jour du banquet.
+Héritiaire de la famille Gucciana, elle s'est fait kidnappée la même nuit que Ronaldo, mais personne n'a assisté à son kidnappage. Sa jambe droite est une prothèse méchanique que [Rukkha](/Personnages/Rukkha) a aidé a réparé le jour du banquet.
 
 Dans un livre sur la famille Gucciana, j'ai trouvé des gribouilles qu'elle a fait. Une page avec des enfants, une page avec un couple (surement ses parents). Une page est complètement gribouillée, indiquant surement une sorte d'accident (ou la maman serait morte). Le livre raconte qu'il y a du bad blood depuis 500 ans avec la famille Chranthem: guerres, conflits, etc. "Nos familles ne pourront jamais s'entendre." Il y a 150 ans, un pacte de non-agression a été établi pour éviter le conflit, mais les deux se détestent tjrs.
 
