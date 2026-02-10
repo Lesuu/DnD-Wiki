@@ -2,7 +2,7 @@
 title: Arc-du-marriage
 description: 
 published: true
-date: 2026-02-10T12:58:11.266Z
+date: 2026-02-10T12:59:37.419Z
 tags: 
 editor: markdown
 dateCreated: 2026-02-10T11:47:08.895Z
@@ -30,7 +30,7 @@ Couple d'elfes: elfes nobles musiciens connus, ils étaient tendus pendant le ba
 
 On investique la bibliothèque. Dans les livres, il y a des symboles. Ceux-ci semblent être attachés aux lieux, mais on n'arrive pas à faire de liens particuliers. Parfois c'est des points, parfois c'est des traits. On arrive pas à trouver de lien sur la logique.
 
-On investigue ensuite la chambre de Georgina. Je trouve une bague en bronze avec une gemme d'ambre incrusté dessus dans un tiroir. Il y avait une feuille avec le symbole de mercennaire dessus. **En utilisant bricolage magique, je trouve le message caché "au port?" sur la fiche.**
+On investigue ensuite la chambre de [Georgina](/Personnages/Personanges). Je trouve une bague en bronze avec une gemme d'ambre incrusté dessus dans un tiroir. Il y avait une feuille avec le symbole de mercennaire dessus. **En utilisant bricolage magique, je trouve le message caché "au port?" sur la fiche.**
 
 Suite à ça, on va dans la chambre de Ronaldo. On trouve aussi une feuille. Dessus, il y a une liste de marchandises (genre un reçu, il y a un bateau dessus). Insigne dessus, très similaire à celle des mercenaires. Elle est signée par Alexy. En éclairant la fiche, je vois que le texte "Théodore Gucciana?" a été inscrit puis tracé au gribouilli. C'est ensuite inscrit "Nous devons parler".
 
