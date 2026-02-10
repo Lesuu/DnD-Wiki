@@ -2,7 +2,7 @@
 title: Personnages
 description: L'index des différents personnages
 published: true
-date: 2026-02-10T12:54:59.704Z
+date: 2026-02-10T12:56:50.714Z
 tags: 
 editor: markdown
 dateCreated: 2026-02-10T12:06:56.042Z
@@ -11,7 +11,7 @@ dateCreated: 2026-02-10T12:06:56.042Z
 
 Cette section du wiki contient des informations sur tous les personnages présent dans la campagne, que ça soit les personnages des joueureuses ou des PNJs. 
 
-# Personnages principaux:
+# 1.Personnages principaux:
 
 Les divers personnages incarnés par les joueureuses et les personnages principaux de la campagne. 
 
@@ -22,11 +22,9 @@ Les divers personnages incarnés par les joueureuses et les personnages principa
 - [Petunia](/Personnages/Petunia)
 - [Typhona](/Personnages/Typhona)
 
-# Personnages secondaires:
+# 2: Arc du marriage:
 
-# 1: Arc du marriage:
-
-## 1.1: Figures clés:
+### 2.1: Figures clés:
 
 ### Ronaldo Chrisanthem: 
 Héritié de la famille Chrisanthem, il s'est fait kidnappé la veille de son marriage par des mercennaires. [[Davnas]] s'est battu contre un d'entre eux qu'il a réussi à capturer. 
@@ -43,13 +41,13 @@ Le bibliothéquaire, aussi son éducateur, nous explique qu'un accident a devast
 La mère (non biologique je crois?) de Ronaldo. Elle est la tête de la famille Chrisanthem
 ### Théodore Gucciana: 
 Le père de Georgina. Il est le leader de la famille Gucciana.
-## 1.2: Staff:
+## 2.2: Staff:
 
 - Clotilde: servante qui est tombée malade à cause de la soupe qui a failli être servie aux deux familles. Il s'avère que la soupe était empoisonnée d'après une analyse de Typhona.
 - Sophie: Servante qui nous a aidé, qui pleurait quand on lui a demandé ce qui se passait le lendemain du kidnapping.
 - Neymar et Mbappé: cuisiniers qui se détestent, qui bicker tout le temps. Ils sont là depuis bien bien longtemps et connaissent beaucoup de choses, mais ont une langue de bois.
 - Intendante et intendant: des deux familles, ces deux semblent avoir un passé romantique. La superintendante se sont coupable d'avoir laissé Georgina se faufilé dans la carosse, lors de l'accident d'il y a 20 ans.
-## 1.3: Invités au banquet:
+## 2.3: Invités au banquet:
 
 - Bock Bocchus: Nain noble qui a discuté avec Baldus. Il semble suspect, travail depuis plus de 60 ans avec de l'or. Il a succédé Heridor, un noble de grande richesse. Depuis que Bocchus a repris le business, leur région prospère dans beaucoup de richesses. Les sources parlant de lui font énormément d'éloges à son égard
 - Couple d'elfes: Musiciens connus qui étaient censé assisté au banquet. Iels n'avaient pas l'air en forme lors du marriage.
