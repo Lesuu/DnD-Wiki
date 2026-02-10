@@ -2,7 +2,7 @@
 title: Personnages
 description: L'index des différents personnages
 published: true
-date: 2026-02-10T12:14:01.660Z
+date: 2026-02-10T12:15:23.473Z
 tags: 
 editor: markdown
 dateCreated: 2026-02-10T12:06:56.042Z
@@ -16,14 +16,14 @@ Cette section du wiki contient des informations sur tous les personnages présen
 
 Les divers personnages incarnés par les joueureuses et les personnages principaux de la campagne. 
 
-- [Baldus](/Personnages/Baldus) - un 
-- [Davnas](/Personnages/Davnas) -
-- [Rukkha](/Personnages/Rukkha) - 
-	- [Fer-bec](/Personnages/Fer-bec) - Un oiseau robotique construit par Rukkha.
-- [Petunia](/Personnages/Petunia) -
-- [Typhona](/Personnages/Typhona) -
+- [Baldus](/Personnages/Baldus) 
+- [Davnas](/Personnages/Davnas)
+- [Rukkha](/Personnages/Rukkha) 
+	- [Fer-bec](/Personnages/Fer-bec) 
+- [Petunia](/Personnages/Petunia)
+- [Typhona](/Personnages/Typhona)
 
 ## Personnages secondaires
 
 - [Introduction](/Personnages/Introduction)
-- [Arc du marriage](/Personnages/Arc-marriage)
+- [Arc du marriage](/Personnages/Arc-marriage)s
