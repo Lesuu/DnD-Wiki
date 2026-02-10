@@ -1,8 +1,8 @@
 ---
 title: Accueil
-description: 
+description: La page d'accueil du wiki
 published: true
-date: 2026-02-10T11:54:42.103Z
+date: 2026-02-10T11:54:54.681Z
 tags: 
 editor: markdown
 dateCreated: 2026-02-10T11:49:00.578Z
