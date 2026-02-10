@@ -2,7 +2,7 @@
 title: Arc-du-marriage
 description: 
 published: true
-date: 2026-02-10T13:04:18.095Z
+date: 2026-02-10T13:12:56.759Z
 tags: 
 editor: markdown
 dateCreated: 2026-02-10T11:47:08.895Z
@@ -28,7 +28,7 @@ Bock: quand Baldus a demandé aux cuistots qu'il était, on nous a dit qu'on fer
 
 Couple d'elfes: elfes nobles musiciens connus, ils étaient tendus pendant le banquet mais on ne sait pas vraiment pourquoi.
 
-On investigue la bibliothèque. Dans les livres, il y a des symboles. Ceux-ci semblent être attachés aux lieux, mais on n'arrive pas à faire de liens particuliers. Parfois c'est des points, parfois c'est des traits. On arrive pas à trouver de lien sur la logique.
+On investigue la bibliothèque. Dans les livres, il y a des symboles. Ceux-ci semblent être attachés aux lieux, mais on n'arrive pas à faire de liens particuliers. Parfois c'est des points, parfois c'est des traits. On arrive pas à trouver de lien sur la logique. Un des livres contient 
 
 On investigue ensuite la chambre de [Georgina](/Personnages/Personnages). Je trouve une bague en bronze avec une gemme d'ambre incrusté dessus dans un tiroir. Il y avait une feuille avec le symbole de mercennaire dessus. **En utilisant bricolage magique, je trouve le message caché "au port?" sur la fiche.**
 
