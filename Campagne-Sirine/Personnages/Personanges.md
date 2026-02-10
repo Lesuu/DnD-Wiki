@@ -2,7 +2,7 @@
 title: Personnages
 description: L'index des différents personnages
 published: true
-date: 2026-02-10T12:52:45.373Z
+date: 2026-02-10T12:52:47.822Z
 tags: 
 editor: markdown
 dateCreated: 2026-02-10T12:06:56.042Z
@@ -26,4 +26,4 @@ Les divers personnages incarnés par les joueureuses et les personnages principa
 ## Personnages secondaires
 
 - [Introduction](/Personnages/Introduction)
-- [Arc du marriage](/Personnages/Arc-du--marriage)
+- [Arc du marriage](/Personnages/Arc-du-marriage)
