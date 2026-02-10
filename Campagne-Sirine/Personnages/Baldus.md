@@ -2,7 +2,7 @@
 title: Baldus
 description: 
 published: true
-date: 2026-02-10T12:29:34.231Z
+date: 2026-02-10T12:29:37.762Z
 tags: 
 editor: markdown
 dateCreated: 2026-02-09T16:34:33.635Z
