@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Story-Notes/Arc du marriage.md",
+                "file": "Story-Notes/Introduction.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Arc du marriage"
+              "title": "Introduction"
             }
           }
         ]
@@ -185,8 +185,9 @@
   },
   "active": "1e2f6309ac7d6aa5",
   "lastOpenFiles": [
+    "Personnages/Personnages-secondaires.md",
+    "Story-Notes/Arc-du-marriage.md",
     "Story-Notes/Introduction.md",
-    "Story-Notes/Arc du marriage.md",
     "Accueil.md",
     "Personnages/Rukkha.md",
     "Welcome.md",
@@ -197,7 +198,6 @@
     "Personnages/Petunia.md",
     "Personnages/Davnas.md",
     "Personnages/Typhona.md",
-    "Personnages/Personnages secondaires.md",
     "Personnages/Fer-bec.md",
     "Personnages"
   ]
